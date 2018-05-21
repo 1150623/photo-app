@@ -1,0 +1,3 @@
+
+export SENDGRID_USERNAME=apikey
+export SENDGRID_PASSWORD=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
