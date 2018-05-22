@@ -55,7 +55,11 @@
     }
 
     .btn-primary:hover, btn-primary:focus {
-        background-color: darken(#428bca, 20%);
+        background-color: darken(#428bca, 15%);
+    }
+
+     .btn-success:hover, btn-success:focus {
+        background-color: darken(#30a944, 10%);
     }
 
 }
