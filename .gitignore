@@ -22,3 +22,5 @@
 
 .byebug_history
 .profile
+/config/secrets.yml
+/config/initializers/stripe.rb
